@@ -4,14 +4,20 @@ Olá! Sou o João Lucas, desenvolvedor Back-End em formação e estudante de Eng
 
 Tenho experiência prática com Python, Web Scraping, automação com Arduino e interfaces gráficas com PySide6, sempre buscando aprimorar minhas habilidades com projetos reais. Abaixo, você encontra alguns dos meus projetos e conhecimentos mais relevantes.
 
-🚀 Tecnologias e Ferramentas
+---
+### 🚀 Tecnologias e Ferramentas
 
-
-
-
-
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/PySide6-20232A?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Openpyxl-212121?style=for-the-badge&logo=excel&logoColor=white" alt="Openpyxl" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 🧠 Habilidades Técnicas
 
