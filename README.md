@@ -1,7 +1,7 @@
 ---
 ### 👨‍💻 João Lucas Gomes
 
-Olá! Sou o João Lucas, entusiasta da tecnologia e estudante de Engenharia de Computação no Centro Universitário Facens[cite: 2, 4]. Busco minha primeira oportunidade como Estagiário ou Programador Júnior em desenvolvimento Back-end[cite: 2]. Tenho experiência prática com Python, IoT e automação com Arduino, comprovados por projetos práticos e certificações[cite: 3], além de interfaces gráficas com PySide6. Abaixo, você encontra alguns dos meus projetos e conhecimentos mais relevantes.
+Olá! Sou o João Lucas, entusiasta da tecnologia e estudante de Engenharia de Computação no Centro Universitário Facens. Busco minha primeira oportunidade como Estagiário ou Programador Júnior em desenvolvimento Back-end. Tenho experiência prática com Python, IoT e automação com Arduino, comprovados por projetos práticos e certificações, além de interfaces gráficas com PySide6. Abaixo, você encontra alguns dos meus projetos e conhecimentos mais relevantes.
 
 ---
 ### 🚀 Tecnologias e Ferramentas
@@ -22,12 +22,12 @@ Olá! Sou o João Lucas, entusiasta da tecnologia e estudante de Engenharia de C
 ---
 ### 🧠 Habilidades Técnicas
 
-* Desenvolvimento Back-End com Python [cite: 3]
+* Desenvolvimento Back-End com Python 
 * Programação Orientada a Objetos (POO)
-* Web Scraping com Requests, LXML, XPath [cite: 6]
-* Manipulação de dados com Pandas [cite: 6]
-* Geração de planilhas com Openpyxl [cite: 6]
-* Automação com Arduino e sensores (IoT) [cite: 3, 9]
+* Web Scraping com Requests, LXML, XPath 
+* Manipulação de dados com Pandas 
+* Geração de planilhas com Openpyxl 
+* Automação com Arduino e sensores (IoT) 
 * Controle de versões com Git/GitHub
 * Algoritmos
 * Microsoft Office (Word, Excel, PowerPoint)
@@ -36,13 +36,13 @@ Olá! Sou o João Lucas, entusiasta da tecnologia e estudante de Engenharia de C
 ### 🧪 Projetos em Destaque
 
 * 📄 **Web Scraper da Pokédex**
-    * Desenvolvi um web scraper em Python para extrair dados da Pokédex (1ª geração) do site pokemondb.net[cite: 6].
-    * Aprofundamento em Web scraping (requests, lxml, XPath), manipulação e organização de dados (pandas), geração de arquivos Excel (openpyxl), diferenciação entre conteúdo estático e dinâmico, e gerenciamento de ambientes virtuais (venv)[cite: 6].
-    * **Resultado**: Script funcional que extrai dados e gera um arquivo `.xlsx` com os 151 Pokémon da 1ª geração[cite: 7].
+    * Desenvolvi um web scraper em Python para extrair dados da Pokédex (1ª geração) do site pokemondb.net.
+    * Aprofundamento em Web scraping (requests, lxml, XPath), manipulação e organização de dados (pandas), geração de arquivos Excel (openpyxl), diferenciação entre conteúdo estático e dinâmico, e gerenciamento de ambientes virtuais (venv).
+    * **Resultado**: Script funcional que extrai dados e gera um arquivo `.xlsx` com os 151 Pokémon da 1ª geração.
 
 * 🚗 **Garagem Inteligente em Miniatura**
-    * Criei uma garagem inteligente em miniatura com Arduino e sensores, simulando um sistema de estacionamento automatizado[cite: 9].
-    * Utilização de LEDs para indicar o status de vagas[cite: 10].
+    * Criei uma garagem inteligente em miniatura com Arduino e sensores, simulando um sistema de estacionamento automatizado.
+    * Utilização de LEDs para indicar o status de vagas.
     * Projeto feito com Arduino, reforçando conceitos de IoT e lógica de programação.
 
 * 🧮 **calculadora-pyside6**
@@ -51,8 +51,8 @@ Olá! Sou o João Lucas, entusiasta da tecnologia e estudante de Engenharia de C
 ---
 ### 🎓 Educação
 
-* Engenharia de Computação — Centro Universitário Facens (2025 – 2030) [cite: 4]
-* Ensino Médio — Colégio Salesiano São José (2014 – 2023) [cite: 5]
+* Engenharia de Computação — Centro Universitário Facens (2025 – 2030) 
+* Ensino Médio — Colégio Salesiano São José (2014 – 2023) 
 
 ---
 ### 🌐 Contato
