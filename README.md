@@ -1,8 +1,7 @@
-👨‍💻 João Lucas Gomes
+---
+### 👨‍💻 João Lucas Gomes
 
-Olá! Sou o João Lucas, desenvolvedor Back-End em formação e estudante de Engenharia de Computação no Centro Universitário Facens. Apaixonado por tecnologia desde cedo, busco minha primeira oportunidade como estagiário ou programador júnior.
-
-Tenho experiência prática com Python, Web Scraping, automação com Arduino e interfaces gráficas com PySide6, sempre buscando aprimorar minhas habilidades com projetos reais. Abaixo, você encontra alguns dos meus projetos e conhecimentos mais relevantes.
+Olá! Sou o João Lucas, entusiasta da tecnologia e estudante de Engenharia de Computação no Centro Universitário Facens[cite: 2, 4]. Busco minha primeira oportunidade como Estagiário ou Programador Júnior em desenvolvimento Back-end[cite: 2]. Tenho experiência prática com Python, IoT e automação com Arduino, comprovados por projetos práticos e certificações[cite: 3], além de interfaces gráficas com PySide6. Abaixo, você encontra alguns dos meus projetos e conhecimentos mais relevantes.
 
 ---
 ### 🚀 Tecnologias e Ferramentas
@@ -17,53 +16,51 @@ Tenho experiência prática com Python, Web Scraping, automação com Arduino e 
   <img src="https://img.shields.io/badge/Openpyxl-212121?style=for-the-badge&logo=excel&logoColor=white" alt="Openpyxl" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
 </p>
 
-🧠 Habilidades Técnicas
+---
+### 🧠 Habilidades Técnicas
 
-Desenvolvimento Back-End com Python
+* Desenvolvimento Back-End com Python [cite: 3]
+* Programação Orientada a Objetos (POO)
+* Web Scraping com Requests, LXML, XPath [cite: 6]
+* Manipulação de dados com Pandas [cite: 6]
+* Geração de planilhas com Openpyxl [cite: 6]
+* Automação com Arduino e sensores (IoT) [cite: 3, 9]
+* Controle de versões com Git/GitHub
+* Algoritmos
+* Microsoft Office (Word, Excel, PowerPoint)
 
-Programação Orientada a Objetos (POO)
+---
+### 🧪 Projetos em Destaque
 
-Web Scraping com Requests, LXML, XPath
+* 📄 **Web Scraper da Pokédex**
+    * Desenvolvi um web scraper em Python para extrair dados da Pokédex (1ª geração) do site pokemondb.net[cite: 6].
+    * Aprofundamento em Web scraping (requests, lxml, XPath), manipulação e organização de dados (pandas), geração de arquivos Excel (openpyxl), diferenciação entre conteúdo estático e dinâmico, e gerenciamento de ambientes virtuais (venv)[cite: 6].
+    * **Resultado**: Script funcional que extrai dados e gera um arquivo `.xlsx` com os 151 Pokémon da 1ª geração[cite: 7].
 
-Manipulação de dados com Pandas
+* 🚗 **Garagem Inteligente em Miniatura**
+    * Criei uma garagem inteligente em miniatura com Arduino e sensores, simulando um sistema de estacionamento automatizado[cite: 9].
+    * Utilização de LEDs para indicar o status de vagas[cite: 10].
+    * Projeto feito com Arduino, reforçando conceitos de IoT e lógica de programação.
 
-Geração de planilhas com Openpyxl
+* 🧮 **calculadora-pyside6**
+    * Calculadora funcional com interface gráfica utilizando PySide6. Um projeto simples, mas essencial para consolidar conhecimentos em GUI com Python.
 
-Automação com Arduino e sensores (IoT)
+---
+### 🎓 Educação
 
-Controle de versões com Git/GitHub
+* Engenharia de Computação — Centro Universitário Facens (2025 – 2030) [cite: 4]
+* Ensino Médio — Colégio Salesiano São José (2014 – 2023) [cite: 5]
 
-🧪 Projetos em Destaque
+---
+### 🌐 Contato
 
-📄 pokemon-gen1-scraper
+* 📧 joao.lgomes1166@gmail.com
+* <a href="https://www.linkedin.com/in/joaogomes6/" target="_blank">LinkedIn</a>
+* <a href="https://github.com/Joao-Lucas-Code" target="_blank">GitHub</a>
+* 📍 Sorocaba, SP
 
-Meu primeiro projeto de web scraping: coleta de dados da Pokédex (1ª geração) do site pokemondb.net, organizando as informações em um arquivo Excel com Python.
-
-🧮 calculadora-pyside6
-
-Calculadora funcional com interface gráfica utilizando PySide6. Um projeto simples, mas essencial para consolidar conhecimentos em GUI com Python.
-
-🚗 Garagem Inteligente em Miniatura
-
-Sistema automatizado com sensores e LEDs para simulação de estacionamento inteligente. Projeto feito com Arduino, reforçando conceitos de IoT e lógica de programação.
-
-🎓 Educação
-
-Engenharia de Computação — Facens (2025 – 2030)
-
-Ensino Médio — Colégio Salesiano São José (2014 – 2023)
-
-🌐 Contato
-
-
-
-
-📧 joao.lgomes1166@gmail.com
-
-📍 Sorocaba, SP
-
-Se você chegou até aqui, obrigado pelo interesse! 🚀
-Fique à vontade para explorar meus repositórios ou entrar em contato!
-
+---
+Se você chegou até aqui, obrigado pelo interesse! 🚀 Fique à vontade para explorar meus repositórios ou entrar em contato!
