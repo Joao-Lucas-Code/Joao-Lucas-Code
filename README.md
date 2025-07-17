@@ -73,7 +73,8 @@
 
 ## 🐍 Snake de Contribuição
 
-![snake gif](https://github.com/Joao-Lucas-Code/Joao-Lucas-Code/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Joao-Lucas-Code/Joao-Lucas-Code/output/github-contribution-grid-snake.svg)
+
 
 ---
 
