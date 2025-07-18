@@ -64,10 +64,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-CodeS&show_icons=true&theme=github_dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-CodeS&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-Code&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-Code&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 ## 🐍 Meu gráfico Snake de contribuições
