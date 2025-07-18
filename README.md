@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-Code&show_icons=true&theme=tokyonight" />
@@ -70,6 +70,9 @@
 </p>
 
 ---
+## 📊 Meu gráfico Snake de contribuições
+
+![snake gif](https://github.com/Joao-Lucas-Code/Joao-Lucas-Code/blob/output/snake.svg)
 
 ---
 
