@@ -71,10 +71,6 @@
 
 ---
 
-## 🐍 Snake de Contribuição
-
-![snake gif](https://github.com/Joao-Lucas-Code/Joao-Lucas-Code/blob/output/dist/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🎓 Formação Acadêmica
