@@ -94,7 +94,7 @@
 
 ## 💡 Frase Inspiradora
 
-> *"O único lugar onde o sucesso vem antes do trabalho é no dicionário." — Vidal Sassoon*
+> *"Não é sobre o quão bom você é agora, e sim o quão bom você quer se tornar."*
 
 ---
 
