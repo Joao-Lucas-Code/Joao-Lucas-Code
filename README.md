@@ -70,7 +70,7 @@
 </p>
 
 ---
-## 🐍 Meu gráfico Snake de contribuições
+## 🐍 Snake de Contribuição
 
 ![snake gif](https://github.com/Joao-Lucas-Code/Joao-Lucas-Code/blob/output/snake.svg)
 
