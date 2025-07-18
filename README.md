@@ -62,15 +62,15 @@
 
 ---
 
-## 🐍 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-Code&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-Code&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-CodeS&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-CodeS&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 ---
-## 📊 Meu gráfico Snake de contribuições
+## 🐍 Meu gráfico Snake de contribuições
 
 ![snake gif](https://github.com/Joao-Lucas-Code/Joao-Lucas-Code/blob/output/snake.svg)
 
