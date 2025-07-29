@@ -87,7 +87,6 @@
 
 📧 joao.lgomes1166@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/joaogomes6/)  
-🐙 [GitHub](https://github.com/Joao-Lucas-Code)  
 📍 Sorocaba, SP  
 
 ---
