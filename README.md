@@ -79,7 +79,7 @@
 ## 🎓 Formação Acadêmica
 
 🎓 Engenharia de Computação — *Centro Universitário Facens (2025 – 2029)*  
-🎓 Ensino Médio — *Colégio Salesiano São José (2014 – 2023)*
+🎓 Ensino Médio — *Colégio Salesiano São José (2021 – 2023)*
 
 ---
 
