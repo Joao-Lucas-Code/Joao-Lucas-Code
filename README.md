@@ -7,30 +7,19 @@ Estudante de Engenharia de Computação (2º/10º semestre) no Centro Universit�
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,html,css,py,docker,github,go,git,vscode)](https://skillicons.dev)
 
-### Habilidades Técnicas
-
-✔️ Desenvolvimento Back-End com Python e Go  
-✔️ Web Scraping com Requests, LXML, XPath  
-✔️ Manipulação e exportação de dados com Pandas/Openpyxl  
-✔️ Automação com Arduino e sensores (IoT)  
-✔️ POO e algoritmos  
-✔️ Controle de versões com Git e GitHub  
-✔️ Criação de GUIs com PySide6  
-✔️ Microsoft Office (Word, Excel, PowerPoint)
-
 ### Projetos em Destaque
 
-#### 📄 Web Scraper da Pokédex
-> Web scraper em Python que extrai os 151 Pokémon da primeira geração direto do pokemondb.net, organizando tudo em uma planilha Excel.   
-🔧 Tecnologias: Requests, LXML, XPath, Pandas, Openpyxl
+📄 **Blog com Django**
+> Projeto de blog robusto desenvolvido com Django, utilizando PostgreSQL como banco de dados e ambiente de desenvolvimento containerizado com Docker.
+> 🔧 **Tecnologias:** Django, Python, PostgreSQL, Docker
 
-#### 🚗 Garagem Inteligente em Miniatura
-> Simulação funcional de um estacionamento automatizado com Arduino, LEDs e sensores de presença.  
-🔧 Tecnologias: Arduino, lógica de programação, prototipagem
+📄 **Agenda de Contatos com Django**
+> Aplicação de agenda que permite a usuários cadastrar-se e fazer login para gerenciar sua lista pessoal de contatos, com foco em autenticação e operações CRUD.
+> 🔧 **Tecnologias:** Django, Python, HTML, CSS, Bootstrap
 
-#### 🧮 Calculadora GUI com PySide6
-> Calculadora funcional com interface gráfica feita em Python, reforçando conhecimentos de eventos e layout com Qt.  
-🔧 Tecnologias: PySide6, Python, POO
+📄 **Web Scraper da Pokédex**
+> Web scraper em Python que extrai os 151 Pokémon da primeira geração direto do pokemondb.net, organizando tudo em uma planilha Excel.
+> 🔧 **Tecnologias:** Python, Requests, LXML, XPath, Pandas, Openpyxl
 
 ### GitHub Stats
 
