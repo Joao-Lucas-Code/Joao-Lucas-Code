@@ -21,13 +21,6 @@ Estudante de Engenharia de Computação (2º/10º semestre) no Centro Universit�
 > Web scraper em Python que extrai os 151 Pokémon da primeira geração direto do pokemondb.net, organizando tudo em uma planilha Excel.
 > 🔧 **Tecnologias:** Python, Requests, LXML, XPath, Pandas, Openpyxl
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-Code&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-Code&layout=compact&theme=tokyonight" />
-</p>
-
 ### Snake de Contribuição
 ![snake gif](https://github.com/Joao-Lucas-Code/Joao-Lucas-Code/blob/output/snake.svg)
 ### Contato
