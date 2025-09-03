@@ -33,7 +33,7 @@ Estudante de Engenharia de Computação (2º/10º semestre) no Centro Universit�
 
 > *"Não é sobre o quão bom você é agora, e sim o quão bom você quer se tornar."*
 
-### Linguagens
+### Idiomas
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Nativo Português</br>
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Intermediário Inglês (B1)
 
