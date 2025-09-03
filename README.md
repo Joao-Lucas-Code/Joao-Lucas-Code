@@ -1,6 +1,6 @@
 ## 👨‍💻 **João Lucas Gomes**
 
-```Estudante de Engenharia de Computação • Foco em Back-End • Python | Go | Arduino```
+```Foco em Back-End • Python | Go | Arduino```
 
 Estudante de Engenharia de Computação (2º/10º semestre) no Centro Universitário Facens. Busco minha primeira oportunidade como **Estagiário ou Programador Júnior Back-End**, com uma bagagem prática em **Python**, **Golang**, **Docker**, **Arduino/IoT**, e automações com **interfaces gráficas (PySide6)**.
 
@@ -40,9 +40,7 @@ Estudante de Engenharia de Computação (2º/10º semestre) no Centro Universit�
 </p>
 
 ### Snake de Contribuição
-
 ![snake gif](https://github.com/Joao-Lucas-Code/Joao-Lucas-Code/blob/output/snake.svg)
-
 ### Contato
 
 📧 joao.lgomes1166@gmail.com  
@@ -53,7 +51,7 @@ Estudante de Engenharia de Computação (2º/10º semestre) no Centro Universit�
 
 > *"Não é sobre o quão bom você é agora, e sim o quão bom você quer se tornar."*
 
-### Languages
+### Linguagens
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Nativo Português</br>
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Intermediário Inglês (B1)
 
