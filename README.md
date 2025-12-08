@@ -36,6 +36,6 @@ Estudante de Engenharia de Computação (3º/10º semestre) no Centro Universit�
 ### Idiomas
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Nativo Português</br>
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Intermediário Inglês (B1)
-* <img src="https://design.duolingo.com/86230c9ad10d9f08b785.svg"/> **Score Duolingo:** 63 (Atualizado Nov/2025)
+* <img src="https://design.duolingo.com/86230c9ad10d9f08b785.svg" width="16" height="16" alt="Duolingo Icon"/> **Score Duolingo:** 63 (Atualizado Dec/2025)
 
 Se você leu até aqui, obrigado pelo interesse! 🚀 Fique à vontade para explorar meus repositórios ou entrar em contato!  
