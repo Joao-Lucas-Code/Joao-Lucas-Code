@@ -1,41 +1,64 @@
 ## 👨‍💻 **João Lucas Gomes**
 
-```Foco em Back-End • Python | Go | Arduino```
+```Full Stack Developer | Python • React Native • Cybersecurity & Data Analysis```
 
-Estudante de Engenharia de Computação (3º/10º semestre) no Centro Universitário Facens. Busco minha primeira oportunidade como **Estagiário ou Programador Júnior Back-End**, com uma bagagem prática em **Python**, **Golang**, **Docker**, **Arduino/IoT**, **Django** e automações com **interfaces gráficas (PySide6)**.
+Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desenvolvedor apaixonado por construir soluções escaláveis e seguras. Atualmente focado no ecossistema **Python (Django)** e **Mobile (React Native)**, com sólida bagagem em **Cibersegurança** (Santander Bootcamp) e **Análise de Dados**.
 
-### Stacks
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,html,css,py,docker,github,styledcomponents,go,git,vscode,bootstrap,react,django,postgres)](https://skillicons.dev)
+---
 
-### Projetos em Destaque
+### 🚀 Projeto em Destaque (Em Desenvolvimento)
 
-📄 **Blog com Django**
-> Projeto de blog robusto desenvolvido com Django, utilizando PostgreSQL como banco de dados e ambiente de desenvolvimento containerizado com Docker.
-> 🔧 **Tecnologias:** Django, Python, PostgreSQL, Docker
+💎 **[NovaFlow (Planna IA)](https://github.com/Joao-Lucas-Code)** > Uma plataforma de gestão financeira inteligente de ponta a ponta.
+> - **Mobile:** Interface moderna com React Native, Expo Router e visualização de dados dinâmica (Bezier Curves).
+> - **Back-end:** API robusta com Django Rest Framework, autenticação segura via JWT e PostgreSQL.
+> - **DevOps:** Ambiente totalmente containerizado com Docker e Docker Compose.
+> 🔧 **Tecnologias:** Python, Django, React Native, PostgreSQL, Docker, Styled Components.
 
-📄 **Agenda de Contatos com Django**
-> Aplicação de agenda que permite a usuários cadastrar-se e fazer login para gerenciar sua lista pessoal de contatos, com foco em autenticação e operações CRUD.
-> 🔧 **Tecnologias:** Django, Python, HTML, CSS, Bootstrap
+---
 
-📄 **Web Scraper da Pokédex**
-> Web scraper em Python que extrai os 151 Pokémon da primeira geração direto do pokemondb.net, organizando tudo em uma planilha Excel.
-> 🔧 **Tecnologias:** Python, Requests, LXML, XPath, Pandas, Openpyxl
+### 🛠️ Stacks & Ferramentas
 
-### Snake de Contribuição
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,docker,react,styledcomponents,go,github,git,linux,arduino,c,html,css,bootstrap,vscode)](https://skillicons.dev)
+
+**Especialidades Complementares:**
+- **Cybersecurity:** Princípios de Criptografia, Hashing, Redes e Simulação/Defesa contra Malwares.
+- **Data & IA:** Processos de ETL (Power Query), SQL avançado com auxílio de IA e análise de bases de dados.
+- **Workflow:** Desenvolvimento em ambiente Linux (WSL2) e padronização de commits (Conventional Commits).
+
+---
+
+### 📂 Outros Projetos Relevantes
+
+🛡️ **Malware Simulator & Defense**
+> Script desenvolvido para o Bootcamp Santander para simular o comportamento de malwares, focado no estudo de vulnerabilidades e implementação de camadas de proteção.
+> 🔧 **Tecnologias:** Python, Security Fundamentals.
+
+📄 **Web Scraper & Data Processor (Pokédex)**
+> Automação de extração de dados com tratamento de alta performance utilizando Pandas, simulando um fluxo real de engenharia de dados.
+> 🔧 **Tecnologias:** Python, Pandas, Openpyxl, XPath.
+
+---
+
+### 📈 Estatísticas e Contribuições
 ![snake gif](https://github.com/Joao-Lucas-Code/Joao-Lucas-Code/blob/output/snake.svg)
-### Contato
 
-📧 joao.lgomes1166@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/joaogomes6/)  
-📍 Sorocaba, SP  
+---
 
-### Frase Inspiradora
+### 📧 Contato & Idiomas
 
-> *"Não é sobre o quão bom você é agora, e sim o quão bom você quer se tornar."*
+- 📧 **E-mail:** joao.lgomes1166@gmail.com
+- 🔗 **LinkedIn:** [in/joaogomes6](https://www.linkedin.com/in/joaogomes6/)
+- 📍 **Localização:** Sorocaba, SP
 
-### Idiomas
-* ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Nativo Português</br>
-* ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Intermediário Inglês (B1)
-  * <img src="https://design.duolingo.com/86230c9ad10d9f08b785.svg" width="16" height="16" alt="Duolingo Icon"/> **Score Duolingo:** 63 (Atualizado Dec/2025)
+**Idiomas:**
+- 🇧🇷 **Português:** Nativo
+- 🇺🇸 **Inglês:** Intermediário (B1) | **Duolingo Score: 80**
 
-Se você leu até aqui, obrigado pelo interesse! 🚀 Fique à vontade para explorar meus repositórios ou entrar em contato!  
+---
+
+### 💡 Sobre Mim
+Sou um desenvolvedor que não espera as aulas da faculdade para evoluir. Antecipei conteúdos do 3º semestre e busco constantemente certificações que impactam o negócio (Segurança e Dados). Meu foco é entregar código limpo, seguro e que resolva problemas reais.
+
+*"Não é sobre o quão bom você é agora, e sim o quão bom você quer se tornar."*
+
+---
