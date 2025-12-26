@@ -5,7 +5,7 @@
 Estudante de Engenharia de Computação (3º/10º semestre) no Centro Universitário Facens. Busco minha primeira oportunidade como **Estagiário ou Programador Júnior Back-End**, com uma bagagem prática em **Python**, **Golang**, **Docker**, **Arduino/IoT**, **Django** e automações com **interfaces gráficas (PySide6)**.
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,html,css,py,docker,github,go,git,vscode,bootstrap,django,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,html,css,py,docker,github,styledcomponents,go,git,vscode,bootstrap,react,django,postgres)](https://skillicons.dev)
 
 ### Projetos em Destaque
 
