@@ -44,20 +44,12 @@ Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desen
 
 ---
 
-### 📧 Contato & Idiomas
+### 📧 Idiomas
 
-- 📧 **E-mail:** joao.lgomes1166@gmail.com
-- 🔗 **LinkedIn:** [in/joaogomes6](https://www.linkedin.com/in/joaogomes6/)
-- 📍 **Localização:** Sorocaba, SP
-
-**Idiomas:**
 - 🇧🇷 **Português:** Nativo
 - 🇺🇸 **Inglês:** Intermediário (B1) | **Duolingo Score: 80**
 
 ---
-
-### 💡 Sobre Mim
-Sou um desenvolvedor que não espera as aulas da faculdade para evoluir. Antecipei conteúdos do 3º semestre e busco constantemente certificações que impactam o negócio (Segurança e Dados). Meu foco é entregar código limpo, seguro e que resolva problemas reais.
 
 *"Não é sobre o quão bom você é agora, e sim o quão bom você quer se tornar."*
 
