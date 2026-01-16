@@ -2,24 +2,24 @@
 
 ```Full Stack Developer | Python • React Native • Data Science & Cybersecurity```
 
-[cite_start]Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**[cite: 154]. Desenvolvedor focado em construir soluções seguras, escaláveis e baseadas em dados. [cite_start]Atualmente especializado no ecossistema **Python (Django)** e **Mobile (React Native)**[cite: 149].
+Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desenvolvedor focado em construir soluções seguras, escaláveis e baseadas em dados. Atualmente especializado no ecossistema **Python (Django)** e **Mobile (React Native)**.
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-[cite_start]💎 **[NovaFlow (Planna IA)](https://github.com/Joao-Lucas-Code)** > Plataforma de gestão financeira inteligente de ponta a ponta[cite: 167].
-> [cite_start]- **Mobile:** Interface moderna com React Native, Expo e visualização dinâmica (Bezier Curves)[cite: 167, 171].
-> [cite_start]- **Back-end:** API robusta com Django Rest Framework e autenticação JWT[cite: 167, 170].
-> [cite_start]- **Infra:** Ambiente containerizado com Docker e Docker Compose[cite: 172].
+💎 **[NovaFlow (Planna IA)](https://github.com/Joao-Lucas-Code/novaflow-backend)** > Plataforma de gestão financeira inteligente de ponta a ponta.
+> - **Mobile:** Interface moderna com React Native, Expo e visualização dinâmica (Bezier Curves).
+> - **Back-end:** API robusta com Django Rest Framework e autenticação JWT.
+> - **Infra:** Ambiente containerizado com Docker e Docker Compose.
 > 🔧 **Tecnologias:** Python, Django, React Native, PostgreSQL, Docker.
 
-🐍 **[Santander Data Science Pipeline](https://github.com/Joao-Lucas-Code)**
+🐍 **[Santander Data Science Pipeline](https://github.com/Joao-Lucas-Code/Santander_Dev_Week_ETL)**
 > Pipeline de Ciência de Dados integrando **IA Generativa (Gemini)** para automação de marketing bancário.
-> [cite_start]- **Foco:** ETL, Análise Exploratória e Machine Learning (Bootcamp Santander 63h).
+> - **Foco:** ETL, Análise Exploratória e Machine Learning (Bootcamp Santander 63h).
 > 🔧 **Tecnologias:** Python, Pandas, Google Gemini API, AWS.
 
-🌐 **[Django Blog & Infrastructure](https://github.com/Joao-Lucas-Code)**
+🌐 **[Django Blog & Infrastructure](https://github.com/Joao-Lucas-Code/projeto-blog-django-25)**
 > Sistema de gerenciamento de conteúdo com foco em automação DevOps.
 > - **Destaque:** Scripts de automação Shell e gerenciamento de volumes PostgreSQL em Docker.
 > 🔧 **Tecnologias:** Django, PostgreSQL, Docker, Shell Script.
@@ -31,8 +31,8 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,docker,react,styledcomponents,go,github,git,linux,arduino,c,html,css,bootstrap,aws)](https://skillicons.dev)
 
 **Especialidades Complementares:**
-- [cite_start]**Data Science:** Ciência de Dados, Machine Learning e manipulação de DataFrames com Pandas[cite: 204].
-- [cite_start]**Cybersecurity:** Criptografia, Hashing e Defesa Cibernética (Bootcamp Santander)[cite: 151].
+- **Data Science:** Ciência de Dados, Machine Learning e manipulação de DataFrames com Pandas.
+- **Cybersecurity:** Criptografia, Hashing e Defesa Cibernética (Bootcamp Santander).
 - **Cloud & Productivity:** Computação em nuvem (AWS) e automação de processos com Microsoft Copilot.
 
 ---
@@ -49,7 +49,7 @@
 
 📄 **Web Scraper Pokédex**
 > Automação de extração de dados e engenharia de dados.
-> [cite_start]🔧 **Tecnologias:** Python, Pandas, XPath[cite: 174].
+> 🔧 **Tecnologias:** Python, Pandas, XPath.
 
 ---
 
@@ -60,9 +60,8 @@
 
 ### 📧 Idiomas
 
-- [cite_start]🇧🇷 **Português:** Nativo [cite: 158]
-- 🇺🇸 **Inglês:** Intermediário (B1) | [cite_start]**Duolingo Score: 80** [cite: 159]
-
+- 🇧🇷 **Português:** Nativo 
+- 🇺🇸 **Inglês:** Intermediário (B1) | **Duolingo Score: 80** 
 ---
 
 *"Não é sobre o quão bom você é agora, e sim o quão bom você quer se tornar."*
