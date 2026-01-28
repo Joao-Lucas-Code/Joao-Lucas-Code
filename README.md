@@ -28,7 +28,7 @@ Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desen
 
 ### 🛠️ Stacks & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,docker,react,styledcomponents,go,github,git,linux,arduino,c,html,css,bootstrap,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,docker,react,go,github,git,linux,arduino,c,html,css,bootstrap,aws)](https://skillicons.dev)
 
 **Especialidades Complementares:**
 - **Data Science:** Ciência de Dados, Machine Learning e manipulação de DataFrames com Pandas.
