@@ -61,7 +61,7 @@ Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desen
 ### 📧 Idiomas
 
 - 🇧🇷 **Português:** Nativo 
-- 🇺🇸 **Inglês:** Intermediário (B1) | **Duolingo Score: 80** 
+- 🇺🇸 **Inglês:** Intermediário (B1) | **Duolingo Score: 81** 
 ---
 
 *"Não é sobre o quão bom você é agora, e sim o quão bom você quer se tornar."*
