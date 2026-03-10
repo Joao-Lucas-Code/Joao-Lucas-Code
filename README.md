@@ -1,6 +1,6 @@
 ## 👨‍💻 **João Lucas Gomes**
 
-```Full Stack Developer | Python • React Native • Data Science & Cybersecurity```
+```Full Stack Developer | Python • React Native • Data Science```
 
 Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desenvolvedor focado em construir soluções seguras, escaláveis e baseadas em dados. Atualmente especializado no ecossistema **Python (Django)** e **Mobile (React Native)**.
 
