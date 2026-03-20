@@ -8,7 +8,7 @@ Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desen
 
 ### 🚀 Projetos em Destaque
 
-💎 **[NovaFlow (Planna IA)](https://github.com/Joao-Lucas-Code/novaflow-backend)** > Plataforma de gestão financeira inteligente de ponta a ponta.
+💎 **[NovaFlow (Planna IA)](https://www.novaflow.me/)** > Plataforma de gestão financeira inteligente de ponta a ponta.
 > - **Mobile:** Interface moderna com React Native, Expo e visualização dinâmica (Bezier Curves).
 > - **Back-end:** API robusta com Django Rest Framework e autenticação JWT.
 > - **Infra:** Ambiente containerizado com Docker e Docker Compose.
