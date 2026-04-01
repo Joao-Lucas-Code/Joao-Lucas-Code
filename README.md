@@ -29,7 +29,7 @@ Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desen
 
 ### 🛠️ Stacks & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,c,cpp,go,html,css,tailwind,react,nextjs,django,postgres,sqlite,supabase,aws,docker,linux,bash,npm,git,github,postman,arduino,vscode,pycharm,notion,obsidian&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,c,cpp,go,html,css,tailwind,react,nextjs,django,postgres,sqlite,supabase,aws,docker,linux,bash,npm,git,github,postman,arduino,vscode,pycharm,notion,obsidian&perline=15)](https://skillicons.dev)
 
 **Especialidades Complementares:**
 - **Data Science:** Ciência de Dados, Machine Learning e manipulação de DataFrames com Pandas.
