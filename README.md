@@ -9,10 +9,11 @@ Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desen
 ### 🚀 Projetos em Destaque
 
 💎 **[NovaFlow (Planna IA)](https://www.novaflow.me/)** > Plataforma de gestão financeira inteligente de ponta a ponta.
-> - **Mobile:** Interface moderna com React Native, Expo e visualização dinâmica (Bezier Curves).
-> - **Back-end:** API robusta com Django Rest Framework e autenticação JWT.
-> - **Infra:** Ambiente containerizado com Docker e Docker Compose.
-> 🔧 **Tecnologias:** Python, Django, React Native, PostgreSQL, Docker.
+> - **Mobile & Web App:** Interface responsiva e moderna construída com React Native e Expo Router, rodando de forma nativa e no navegador, com visualização dinâmica de dados (Bezier Curves).
+> - **Landing Page:** Vitrine focada em conversão e SEO, desenvolvida com Next.js e Tailwind CSS.
+> - **Back-end:** API robusta com Django Rest Framework, autenticação segura estendida (JWT) e armazenamento de mídias em nuvem via Cloudinary.
+> - **Infraestrutura & Deploy:** Ambiente de desenvolvimento containerizado com Docker/Docker Compose, banco de dados gerenciado no Supabase (PostgreSQL), e produção hospedada no Render com arquitetura de subdomínios customizados (Namecheap).
+> 🔧 **Tecnologias:** Python, Django, React Native, Next.js, Tailwind CSS, PostgreSQL (Supabase), Docker, Render, Cloudinary.
 
 🐍 **[Santander Data Science Pipeline](https://github.com/Joao-Lucas-Code/Santander_Dev_Week_ETL)**
 > Pipeline de Ciência de Dados integrando **IA Generativa (Gemini)** para automação de marketing bancário.
