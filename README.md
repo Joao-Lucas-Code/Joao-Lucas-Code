@@ -1,68 +1,70 @@
-## 👨‍💻 **João Lucas Gomes**
+# 👨‍💻 João Lucas Gomes
 
-```Full Stack Developer | Python • React Native • Data Science```
+**Backend Engineer @ OpenMart** | Computer Engineering Student @ Facens | Secure & data-driven solutions
 
-Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desenvolvedor focado em construir soluções seguras, escaláveis e baseadas em dados. Atualmente especializado no ecossistema **Python (Django)** e **Mobile (React Native)**.
-
----
-
-### 🚀 Projetos em Destaque
-
-💎 **[NovaFlow (Planna IA)](https://www.novaflow.me/)** > Plataforma de gestão financeira inteligente de ponta a ponta.
-> - **Mobile & Web App:** Interface responsiva e moderna construída com React Native e Expo Router, rodando de forma nativa e no navegador, com visualização dinâmica de dados (Bezier Curves).
-> - **Landing Page:** Vitrine focada em conversão e SEO, desenvolvida com Next.js e Tailwind CSS.
-> - **Back-end:** API robusta com Django Rest Framework, autenticação segura estendida (JWT) e armazenamento de mídias em nuvem via Cloudinary.
-> - **Infraestrutura & Deploy:** Ambiente de desenvolvimento containerizado com Docker/Docker Compose, banco de dados gerenciado no Supabase (PostgreSQL), e produção hospedada no Render com arquitetura de subdomínios customizados (Namecheap).
-> 🔧 **Tecnologias:** Python, Django, React Native, Next.js, Tailwind CSS, PostgreSQL (Supabase), Docker, Render, Cloudinary.
-
-🐍 **[Santander Data Science Pipeline](https://github.com/Joao-Lucas-Code/Santander_Dev_Week_ETL)**
-> Pipeline de Ciência de Dados integrando **IA Generativa (Gemini)** para automação de marketing bancário.
-> - **Foco:** ETL, Análise Exploratória e Machine Learning (Bootcamp Santander 63h).
-> 🔧 **Tecnologias:** Python, Pandas, Google Gemini API, AWS.
-
-🌐 **[Django Blog & Infrastructure](https://github.com/Joao-Lucas-Code/projeto-blog-django-25)**
-> Sistema de gerenciamento de conteúdo com foco em automação DevOps.
-> - **Destaque:** Scripts de automação Shell e gerenciamento de volumes PostgreSQL em Docker.
-> 🔧 **Tecnologias:** Django, PostgreSQL, Docker, Shell Script.
+Computer Engineering student (3rd/10th semester) at **Facens** focused on building secure, scalable, and data-driven solutions. Currently working as a Backend Engineer at OpenMart, developing automation systems for retail using Python/Django.
 
 ---
 
-### 🛠️ Stacks & Ferramentas
+### 🚀 Highlighted Projects
+
+#### 💎 [NovaFlow (Planna AI)](https://www.novaflow.me/)
+Full-stack intelligent financial management platform.
+
+- **Web App Demo**: Fully functional web application built to validate the product concept, featuring dynamic data visualization with Bézier curves, category-based spending alerts, transaction management, and financial insights.
+- **Backend**: Robust REST API developed with Django REST Framework, JWT authentication, and media storage via Cloudinary.
+- **Infrastructure**: Dockerized development environment, PostgreSQL managed with Supabase, and production deployed on Render.
+- **Technologies**: Python, Django, PostgreSQL (Supabase), Docker, Cloudinary, Render.
+
+#### 🐍 [Santander Data Science Pipeline](https://github.com/Joao-Lucas-Code/Santander_Dev_Week_ETL)
+Data pipeline integrating **Generative AI (Gemini)** for automated banking marketing.
+
+- Focus: ETL processes, Exploratory Data Analysis, and Machine Learning (Santander Bootcamp - 63h).
+- **Technologies**: Python, Pandas, Google Gemini API, AWS.
+
+#### 🌐 [Django Blog & Infrastructure](https://github.com/Joao-Lucas-Code/projeto-blog-django-25)
+Content management system with strong focus on DevOps automation.
+
+- Highlights: Shell scripting automation and PostgreSQL volume management with Docker.
+- **Technologies**: Django, PostgreSQL, Docker, Shell Script.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,c,cpp,go,html,css,tailwind,react,nextjs,django,pug,postgres,sqlite,supabase,vercel,aws,docker,linux,bash,npm,git,github,postman,arduino,vscode,pycharm,notion,obsidian&perline=15)](https://skillicons.dev)
 
-**Especialidades Complementares:**
-- **Data Science:** Ciência de Dados, Machine Learning e manipulação de DataFrames com Pandas.
-- **Cybersecurity:** Criptografia, Hashing e Defesa Cibernética (Bootcamp Santander).
-- **Cloud & Productivity:** Computação em nuvem (AWS) e automação de processos com Microsoft Copilot.
+**Complementary Specialties:**
+- **Data Science**: Data analysis, Machine Learning, and Pandas DataFrames manipulation.
+- **Cybersecurity**: Cryptography, Hashing, and Cyber Defense (Santander Bootcamp).
+- **Cloud & Productivity**: Cloud computing (AWS) and process automation with Microsoft Copilot.
 
 ---
 
-### 📂 Outros Projetos Relevantes
+### 📂 Other Relevant Projects
 
-📱 **Django Agenda**
-> Gerenciador de contatos com autenticação segura e gestão de mídia.
-> 🔧 **Tecnologias:** Django, SQLite, Bootstrap.
+- **Django Agenda** — Contact manager with secure authentication and media handling.  
+  `Django • SQLite • Bootstrap`
 
-🛡️ **Malware Simulator & Defense**
-> Script para estudo de vulnerabilidades e implementação de camadas de proteção.
-> 🔧 **Tecnologias:** Python, Security Fundamentals.
+- **Malware Simulator & Defense** — Script for studying vulnerabilities and implementing protection layers.  
+  `Python • Security Fundamentals`
 
-📄 **Web Scraper Pokédex**
-> Automação de extração de dados e engenharia de dados.
-> 🔧 **Tecnologias:** Python, Pandas, XPath.
+- **Web Scraper Pokédex** — Data extraction and engineering automation.  
+  `Python • Pandas • XPath`
 
 ---
 
-### 📈 Estatísticas e Contribuições
+### 📈 Statistics & Contributions
+
 ![snake gif](https://github.com/Joao-Lucas-Code/Joao-Lucas-Code/blob/output/snake.svg)
 
 ---
 
-### 📧 Idiomas
+### 📧 Languages
 
-- 🇧🇷 **Português:** Nativo 
-- 🇺🇸 **Inglês:** Intermediário (B2) | **Duolingo Score: 100** 
+- 🇧🇷 **Portuguese**: Native
+- 🇺🇸 **English**: Intermediate (B2) | Duolingo Score: 100
+
 ---
 
-*"Não é sobre o quão bom você é agora, e sim o quão bom você quer se tornar."*
+> *"It's not about how good you are now, it's about how good you want to become."*
