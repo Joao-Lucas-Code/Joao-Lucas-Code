@@ -1,8 +1,8 @@
 # 👨‍💻 João Lucas Gomes
 
-**Backend Engineer @ OpenMart** | Computer Engineering Student @ Facens | Secure & data-driven solutions
+**Backend Engineer @ OpenMart** | Computer Engineering Student @ Facens
 
-Computer Engineering student (3rd/10th semester) at **Facens** focused on building secure, scalable, and data-driven solutions. Currently working as a Backend Engineer at OpenMart, developing automation systems for retail using Python/Django.
+Computer Engineering student currently in the 3rd semester at **Facens**, working as a Backend Engineer at OpenMart. Focused on developing secure, scalable, and data-driven systems, with strong experience in Python/Django ecosystems and interest in applying technology to real-world problems in retail automation and fintech.
 
 ---
 
