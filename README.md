@@ -2,7 +2,7 @@
 
 **Backend Engineer @ OpenMart** | Computer Engineering Student @ Facens | Secure & data-driven solutions
 
-Computer Engineering student (3rd/10th semester) at **Facens** focused on building secure, scalable, and data-driven solutions. Currently working as a Backend Engineer at OpenMart, developing automation systems for retail using Python/Django.
+Computer Engineering student (4rd/10th semester) at **Facens** focused on building secure, scalable, and data-driven solutions. Currently working as a Backend Engineer at OpenMart, developing automation systems for retail using Python/Django.
 
 ---
 
