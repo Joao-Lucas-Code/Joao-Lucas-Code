@@ -2,7 +2,7 @@
 
 **Backend Engineer @ OpenMart** | Computer Engineering Student @ Facens | Secure & data-driven solutions
 
-Computer Engineering student (4rd/10th semester) at **Facens** focused on building secure, scalable, and data-driven solutions. Currently working as a Backend Engineer at OpenMart, developing automation systems for retail using Python/Django.
+Computer Engineering student (4th/10th semester) at **Facens** focused on building secure, scalable, and data-driven solutions. Currently working as a Backend Engineer at OpenMart, developing automation systems for retail using Python/Django.
 
 ---
 
@@ -43,13 +43,13 @@ Content management system with strong focus on DevOps automation.
 
 ### 📂 Other Relevant Projects
 
-- **Django Agenda** — Contact manager with secure authentication and media handling.  
+- **[Django Agenda](https://github.com/Joao-Lucas-Code/Projeto-Agenda-Django)** — Contact manager with secure authentication and media handling.
   `Django • SQLite • Bootstrap`
 
-- **Malware Simulator & Defense** — Script for studying vulnerabilities and implementing protection layers.  
+- **[Cybersecurity Defense Lab](https://github.com/Joao-Lucas-Code/desafio-dados-malware)** — Script for studying vulnerabilities and implementing protection layers.
   `Python • Security Fundamentals`
 
-- **Web Scraper Pokédex** — Data extraction and engineering automation.  
+- **[Web Scraper Pokédex](https://github.com/Joao-Lucas-Code/pokemon-gen1-scraper)** — Data extraction and engineering automation.
   `Python • Pandas • XPath`
 
 ---
