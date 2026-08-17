@@ -63,7 +63,7 @@ Content management system with strong focus on DevOps automation.
 ### 📧 Languages
 
 - 🇧🇷 **Portuguese**: Native
-- 🇺🇸 **English**: Intermediate (B2) | Duolingo Score: 101
+- 🇺🇸 **English**: Intermediate (B2) | Duolingo Score: 102
 
 ---
 
