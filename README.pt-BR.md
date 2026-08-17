@@ -3,7 +3,7 @@ readme.md
 
 ```Full Stack Developer | Python • React Native • Data Science```
 
-Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desenvolvedor focado em construir soluções seguras, escaláveis e baseadas em dados. Atualmente especializado no ecossistema **Python (Django)** e **Mobile (React Native)**.
+Estudante de Engenharia de Computação (4º/10º semestre) na **Facens**. Desenvolvedor focado em construir soluções seguras, escaláveis e baseadas em dados. Atualmente especializado no ecossistema **Python (Django)** e **Mobile (React Native)**.
 
 ---
 
@@ -63,7 +63,7 @@ Estudante de Engenharia de Computação (3º/10º semestre) na **Facens**. Desen
 ### 📧 Idiomas
 
 - 🇧🇷 **Português:** Nativo 
-- 🇺🇸 **Inglês:** Intermediário (B2) | **Duolingo Score: 100** 
+- 🇺🇸 **Inglês:** Intermediário (B2) | **Duolingo Score: 102** 
 ---
 
 *"Não é sobre o quão bom você é agora, e sim o quão bom você quer se tornar."*
